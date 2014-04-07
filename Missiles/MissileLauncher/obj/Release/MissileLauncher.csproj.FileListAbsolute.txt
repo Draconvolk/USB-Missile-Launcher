@@ -1,0 +1,5 @@
+C:\PrivateResearch\Missiles\MissileLauncher\bin\Release\MissileLauncher.dll
+C:\PrivateResearch\Missiles\MissileLauncher\bin\Release\MissileLauncher.pdb
+C:\PrivateResearch\Missiles\MissileLauncher\bin\Release\USBLib.DLL
+C:\PrivateResearch\Missiles\MissileLauncher\obj\Release\MissileLauncher.dll
+C:\PrivateResearch\Missiles\MissileLauncher\obj\Release\MissileLauncher.pdb

@@ -1,0 +1,6 @@
+C:\PrivateResearch\Missiles\MissileLauncher\bin\Debug\MissileLauncher.dll
+C:\PrivateResearch\Missiles\MissileLauncher\bin\Debug\MissileLauncher.pdb
+C:\PrivateResearch\Missiles\MissileLauncher\bin\Debug\USBLib.DLL
+C:\PrivateResearch\Missiles\MissileLauncher\obj\Debug\MissileLauncher.dll
+C:\PrivateResearch\Missiles\MissileLauncher\obj\Debug\MissileLauncher.pdb
+C:\PrivateResearch\Missiles\MissileLauncher\obj\Debug\MissileLauncher.csprojResolveAssemblyReference.cache

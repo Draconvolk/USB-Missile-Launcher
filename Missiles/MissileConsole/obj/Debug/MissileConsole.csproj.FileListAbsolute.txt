@@ -1,0 +1,13 @@
+C:\PrivateResearch\Missiles\MissileConsole\bin\Debug\MissileConsole.exe.config
+C:\PrivateResearch\Missiles\MissileConsole\bin\Debug\MissileConsole.exe
+C:\PrivateResearch\Missiles\MissileConsole\bin\Debug\MissileConsole.pdb
+C:\PrivateResearch\Missiles\MissileConsole\bin\Debug\MissileLauncher.dll
+C:\PrivateResearch\Missiles\MissileConsole\bin\Debug\USBLib.dll
+C:\PrivateResearch\Missiles\MissileConsole\bin\Debug\MissileLauncher.pdb
+C:\PrivateResearch\Missiles\MissileConsole\obj\Debug\MissileConsole.csprojResolveAssemblyReference.cache
+C:\PrivateResearch\Missiles\MissileConsole\obj\Debug\MissileConsole.exe
+C:\PrivateResearch\Missiles\MissileConsole\obj\Debug\MissileConsole.pdb
+C:\PrivateResearch\Missiles\MissileConsole\bin\Debug\MissileConsole.exe.manifest
+C:\PrivateResearch\Missiles\MissileConsole\bin\Debug\MissileConsole.application
+C:\PrivateResearch\Missiles\MissileConsole\obj\Debug\MissileConsole.exe.manifest
+C:\PrivateResearch\Missiles\MissileConsole\obj\Debug\MissileConsole.application
